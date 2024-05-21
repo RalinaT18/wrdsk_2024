@@ -10,3 +10,10 @@ https://github.com/mzakariah/plant-disease-detection-using-yolov4
 
 labelimg
 
+Tree detection Dataset > Overview
+https://universe.roboflow.com/yolo-for-tree-detection/tree-detection-ntf74
+
+from imgaug import augmenters as iaa
+
+https://imgaug.readthedocs.io/en/latest/
+
