@@ -18,3 +18,5 @@ from imgaug import augmenters as iaa
 https://imgaug.readthedocs.io/en/latest/
 
 https://www.youtube.com/watch?v=EYWvPCD1L5I
+
+https://github.com/louisbau/tree-leaf-recognition/tree/main
