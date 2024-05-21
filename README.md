@@ -22,3 +22,5 @@ https://www.youtube.com/watch?v=EYWvPCD1L5I
 https://github.com/louisbau/tree-leaf-recognition/tree/main
 
 https://github.getafreenode.com/doguilmak/Leaf-Detection-YOLOv7x/tree/main
+
+https://git.jl-k.com/julzerinos/python-opencv-leaf-detection
